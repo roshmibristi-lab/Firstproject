@@ -1,2 +1,3 @@
-# Firstproject
-This is my first git repository 
+#FIRST PROJECT
+This is my first Git project
+Author-Roshmi Ghosh
